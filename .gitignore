@@ -1,0 +1,5 @@
+.vscode/**
+.pyenv/**
+**/**.pyc
+**/__pycache__/**
+output/**
